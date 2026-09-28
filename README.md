@@ -1,1 +1,1 @@
-# lojadeComputadores
+A TechStore é um sistema para uma loja de computadores que ajuda a organizar produtos, clientes, estoque e vendas. O sistema permite cadastrar e consultar produtos e clientes, registrar vendas e acompanhar o estoque. Seu objetivo é centralizar as informações da loja e facilitar o controle das atividades do dia a dia.
